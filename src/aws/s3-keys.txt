@@ -1,4 +1,0 @@
-IAM user para conectar no S3 de forma programatica
-
-Acces Key: AKIAR2RHVI5JHWMPJJWQ
-Secret Acess Key: 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
