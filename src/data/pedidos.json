@@ -1,0 +1,65 @@
+[
+  {
+    "usuario": "Ana Silva",
+    "produto": "Notebook Gamer",
+    "quantidade": 1,
+    "valor_unitario": 5999.9,
+    "categoria": "Eletrônicos"
+  },
+  {
+    "usuario": "Bruno Costa",
+    "produto": "Teclado Mecânico RGB",
+    "quantidade": 1,
+    "valor_unitario": 379.9,
+    "categoria": "Acessórios"
+  },
+  {
+    "usuario": "Carla Dias",
+    "produto": "Monitor Ultrawide 29\"",
+    "quantidade": 2,
+    "valor_unitario": 1250.0,
+    "categoria": "Monitores"
+  },
+  {
+    "usuario": "Daniel Martins",
+    "produto": "Mouse sem Fio",
+    "quantidade": 1,
+    "valor_unitario": 89.99,
+    "categoria": "Acessórios"
+  },
+  {
+    "usuario": "Ana Silva",
+    "produto": "Cadeira Gamer",
+    "quantidade": 1,
+    "valor_unitario": 950.0,
+    "categoria": "Móveis"
+  },
+  {
+    "usuario": "Fernanda Lima",
+    "produto": "SSD 1TB NVMe",
+    "quantidade": 2,
+    "valor_unitario": 450.0,
+    "categoria": "Componentes"
+  },
+  {
+    "usuario": "Gabriel Rocha",
+    "produto": "Headset Gamer 7.1",
+    "quantidade": 1,
+    "valor_unitario": 320.5,
+    "categoria": "Acessórios"
+  },
+  {
+    "usuario": "Bruno Costa",
+    "produto": "Webcam Full HD",
+    "quantidade": 1,
+    "valor_unitario": 180.0,
+    "categoria": "Acessórios"
+  },
+  {
+    "usuario": "Ana Silva",
+    "produto": "Mouse sem Fio",
+    "quantidade": 1,
+    "valor_unitario": 89.99,
+    "categoria": "Acessórios"
+  }
+]
